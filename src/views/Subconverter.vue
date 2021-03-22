@@ -258,7 +258,7 @@ export default {
           "localhost:25500 本地版": "http://localhost:25500/sub?",
           "api.hope140.live (如有问题请反馈至tg-@hope140）": "https://api.hope140.live/sub?",
           "api-cf.tsutsu.cc (つつ提供-稳定）": "https://api-cf.tsutsu.cc/sub?",
-          "sub.proxypoolv2.tk (Allen Xu提供-稳定)": "sub.proxypoolv2.tk",
+          "sub.proxypoolv2.tk (Allen Xu提供-稳定)": "https://sub.proxypoolv2.tk/sub?",
           "api.tsutsu.cc (つつ提供-不是很稳定）": "http://api.tsutsu.cc:520/sub?",
           "subcon.dlj.tf (subconverter作者提供-稳定)":
             "https://subcon.dlj.tf/sub?",
