@@ -267,6 +267,9 @@ export default {
         },
         backendOptions: [
           { value: "http://localhost:25500/sub?" },
+          { value: "https://api-cf.tsutsu.cc/sub?" },
+          { value: "https://sub.proxypoolv2.tk/sub?" },
+          { value: "http://api.tsutsu.cc:520/sub?" },
           { value: "https://api.hope140.live/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
           { value: "https://api.dler.io/sub?" },
