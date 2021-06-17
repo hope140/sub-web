@@ -539,8 +539,8 @@ export default {
       sourceSub = sourceSub.replace(/(\n|\r|\n\r)/g, "|");
 
       // 薯条屏蔽
-      if (sourceSub.indexOf("losadhwse") !== -1 && (backend.indexOf("py6.pw") !== -1 || backend.indexOf("subconverter-web.now.sh") !== -1 || backend.indexOf("subconverter.herokuapp.com") !== -1 || backend.indexOf("api.wcc.best") !== -1)) {
-        this.$alert('此机场订阅已将该后端屏蔽，请自建后端转换。', '转换错误提示', {
+      if (sourceSub.indexOf("wodetaylor") !== -1 && (backend.indexOf("py6.pw") !== -1 || backend.indexOf("api.hope140.live") !== -1 || backend.indexOf("subconverter.herokuapp.com") !== -1 || backend.indexOf("api.wcc.best") !== -1)) {
+        this.$alert('此机场订阅已将该后端屏蔽，请使用其他后端转换。', '转换错误提示', {
           confirmButtonText: '确定',
           callback: action => {
             this.$message({
